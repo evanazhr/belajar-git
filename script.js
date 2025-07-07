@@ -10,3 +10,7 @@ console.log(divide(80,5))
 function sayHello(name){
   console.log(`Hello ${name}`)
 }
+
+function sayGoodBye(name){
+  console.log(`good bye ${name}`)
+}
